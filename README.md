@@ -1,4 +1,4 @@
-Project Name: Serenity
+#Project Name: Serenity
 Overview
 This document provides an overview of the travel blog website that focuses on showcasing the best cafes in Tagaytay, Amadeo, and Dasmarinas. It highlights the website's features, the technologies used, and instructions for running the project locally.
 
